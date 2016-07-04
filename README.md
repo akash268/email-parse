@@ -8,3 +8,13 @@ to
 
 Arun.Sangal
 Michael.Jcksn
+
+
+#Tip to myself
+
+For access behind corporate firewall create .typingsrc file in c:\\users\<user> with following content
+
+{
+"proxy" : "http://127.0.0.1:8191/",
+"rejectUnauthorized" : false
+}
